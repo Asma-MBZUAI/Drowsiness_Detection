@@ -1,4 +1,2 @@
-*.keras filter=lfs diff=lfs merge=lfs -text
-*.dat filter=lfs diff=lfs merge=lfs -text
 best_resnet50_eye_model.keras filter=lfs diff=lfs merge=lfs -text
 shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
