@@ -83,15 +83,22 @@ cd Patient-Specific_Training_of_Deep_Learning_Models_for_Drowsiness_Detection
 ---
 
 ## **Usage**
+
 ### **Training the Model**
-Train the CNNs using the `train_eyes_SmallDataset.ipynb` notebook.
+- **Eye Dataset:**  
+  Use the `train_eyes_SmallDataset.ipynb` notebook to train the model on the eye dataset.
+
+- **Face Dataset:**  
+  Use the following notebooks to train the model on the face dataset:  
+  - `Baseline.ipynb`  
+  - `Intense Augmentation.ipynb`  
+  - `Light Augmentation.ipynb`  
 
 ### **Real-Time Detection**
-Execute the `real_time_detection.py` script for real-time detection:
+Execute the `real_time_detection.py` script for real-time detection:  
 ```bash
 python real_time_detection.py
 ```
-
 ---
 
 ## **Contributing**
