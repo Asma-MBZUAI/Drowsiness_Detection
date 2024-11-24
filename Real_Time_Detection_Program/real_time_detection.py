@@ -14,7 +14,7 @@ LEFT_EYE_INDICES = [36, 37, 38, 39, 40, 41]
 RIGHT_EYE_INDICES = [42, 43, 44, 45, 46, 47]
 
 # Drowsiness threshold
-DROWSINESS_THRESHOLD = 0.57 # to be adjusted based on model performance
+DROWSINESS_THRESHOLD = 0.67 # to be adjusted based on model performance
 
 # Initialize sound alert system
 pygame.mixer.init()
