@@ -76,8 +76,8 @@ pip install tqdm==4.64.1
 ### **3. Clone the Repository**
 Clone the project repository:
 ```bash
-git clone https://github.com/Asma-MBZUAI/Patient-Specific_Training_of_Deep_Learning_Models_for_Drowsiness_Detection.git
-cd Patient-Specific_Training_of_Deep_Learning_Models_for_Drowsiness_Detection
+git clone https://github.com/Asma-MBZUAI/Drowsiness_Detection.git
+cd Drowsiness_Detection/Patient-Specific_Training_of_Deep_Learning_Models_for_Drowsiness_Detection/
 ```
 
 ---
@@ -99,6 +99,12 @@ Execute the `real_time_detection.py` script for real-time detection:
 ```bash
 python real_time_detection.py
 ```
+## **Real-Time Detection Results**
+### **Not Drowsy Results**
+![Not Drowsy](NotDrowsy.png)
+
+### **Drowsy Results**
+![Drowsy](Drowsy1.png)
 ---
 
 ## **Contributing**
