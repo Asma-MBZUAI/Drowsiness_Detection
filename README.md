@@ -99,7 +99,7 @@ Execute the `real_time_detection.py` script for real-time detection:
 ```bash
 python real_time_detection.py
 ```
-## **Real-Time Detection Results**
+
 ### **Not Drowsy Results**
 ![Not Drowsy](NotDrowsy.png)
 
